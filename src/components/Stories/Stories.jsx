@@ -43,8 +43,8 @@ const Stories = () => {
     return (
         <div className='mt-10 lg:mt-16 p-6'>
             <div>
-                <h1 className='text-3xl lg:text-5xl font1'>Stories & Ideas</h1>
-                <p className='lg:mt-4 text-[14px] lg:text-[16px] text-black leading-7 font2'>The latest news and updates</p>
+                <h1 className='text-4xl lg:text-5xl font1'>Stories & Ideas</h1>
+                <p className='lg:mt-4 text-[16px] lg:text-[16px] text-black leading-7 font2'>The latest news and updates</p>
             </div>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mt-20'>
                 {storiesData.map((story, index) => (

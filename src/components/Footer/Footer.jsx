@@ -8,7 +8,7 @@ const Footer = () => {
             <footer className="footer bg-[#E6E6E6] text-base-content p-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:mt-10">
                     <aside className="lg:col-span-2">
-                        <p className='text-4xl font1 leading-10'>Experience remarkable<br />WordPress products with a<br />new level of power, beauty,<br />and human-centered designs.</p>
+                        <p className='text-3xl lg:text-4xl font1 leading-10'>Experience remarkable<br />WordPress products with a<br />new level of power, beauty,<br />and human-centered designs.</p>
                         <div className="mt-48 text-[14px]">
                             <p>©2024 Terms of Use Privacy Policy</p>
                             <p className='w-full md:w-[517px] mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaera.</p>
